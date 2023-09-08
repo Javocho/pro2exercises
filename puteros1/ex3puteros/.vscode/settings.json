@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.pro2": "cpp",
+		"*.tcc": "cpp",
+		"compare": "cpp",
+		"type_traits": "cpp"
+	}
+}
